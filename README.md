@@ -2,6 +2,8 @@
 
 An intelligent CSV importer that uses AI (Groq/OpenAI/Gemini) to extract and map CRM lead information from any CSV format into GrowEasy CRM format.
 
+🔗 **Live Demo:** [https://groweasy-csv-importer-five.vercel.app](https://groweasy-csv-importer-five.vercel.app)
+
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![Express](https://img.shields.io/badge/Express-4.21-blue)
