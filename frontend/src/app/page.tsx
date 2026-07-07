@@ -6,7 +6,7 @@ import PreviewStep from "@/components/PreviewStep";
 import ResultsStep from "@/components/ResultsStep";
 import { UploadResponse, ProcessResponse } from "@/types";
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:3001";
+const API_URL = process.env.NEXT_PUBLIC_API_URL || "";
 
 type Step = "upload" | "preview" | "results";
 
